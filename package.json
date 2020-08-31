@@ -1,0 +1,24 @@
+{
+  "name": "top10picks",
+  "version": "1.0.0",
+  "description": "Simple landing page for Victor and Edar's top 10 car picks! I just updated this.",
+  "main": "index.js",
+  "dependencies": {
+    "budo": "^11.6.4",
+    "watchify": "^3.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "budo  --live"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edarmartinez/Top10Picks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edarmartinez/Top10Picks/issues"
+  },
+  "homepage": "https://github.com/edarmartinez/Top10Picks#readme"
+}
