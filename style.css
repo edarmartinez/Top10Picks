@@ -1,9 +1,9 @@
 body nav {
-  color: whitesmoke;
-  background-color: #2e093a;
+  color: rgb(255, 255, 255);
+  background-color:#ff0000;
 }
 
 .footer {
-    background-color: #2e093a;
+    background-color: #000000;
 
 }
